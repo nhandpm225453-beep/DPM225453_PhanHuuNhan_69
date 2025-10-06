@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225453_PhanHuuNhan_Real21_Strategy", "DPM225453_PhanHuuNhan_Real21_Strategy\DPM225453_PhanHuuNhan_Real21_Strategy.csproj", "{95DF6527-2F90-4A99-8BB6-530B269727BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DF6527-2F90-4A99-8BB6-530B269727BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DF6527-2F90-4A99-8BB6-530B269727BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DF6527-2F90-4A99-8BB6-530B269727BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DF6527-2F90-4A99-8BB6-530B269727BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40A5ECA-B62B-4FFB-A3D3-6AAD9CC17979}
+	EndGlobalSection
+EndGlobal
